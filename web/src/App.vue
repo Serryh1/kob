@@ -34,5 +34,8 @@ export default {
 </script>
 
 <style>              /*css*/
-
+body{
+  background-image: url("@/assets/background.png");
+  background-size: cover;
+}
 </style>
