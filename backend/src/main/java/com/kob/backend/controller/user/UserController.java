@@ -1,2 +1,4 @@
-package com.kob.backend.controller.user;public class UserController {
+package com.kob.backend.controller.user;
+
+public class UserController {
 }
