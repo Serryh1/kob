@@ -1,2 +1,4 @@
-package com.kob.backend.service.impl.user;public class InfoServiceImpl {
+package com.kob.backend.service.impl.user;
+
+public class InfoServiceImpl {
 }

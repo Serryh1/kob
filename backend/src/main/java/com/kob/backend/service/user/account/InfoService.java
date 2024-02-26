@@ -1,4 +1,4 @@
-package com.kob.backend.service.impl.user.account;
+package com.kob.backend.service.user.account;
 
 import java.util.Map;
 
